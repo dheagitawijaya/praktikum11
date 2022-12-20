@@ -31,6 +31,7 @@ $result = mysqli_query($conn, $sql);
             <a href="home.php">Home</a>
             <a href="tambah.php">Tambang Barang</a>
             <a href="ubah.php">Ubah Barang</a>
+            <a href="hapus.php">Hapus Barang</a>
         </nav>
         <div class="container">
         <h1>Data Barang</h1>

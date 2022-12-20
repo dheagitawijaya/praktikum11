@@ -15,6 +15,7 @@ media="screen" />
             <a href="home.php">Home</a>
             <a href="tambah.php">Tambah Barang</a>
             <a href="ubah.php">Ubah Barang</a>
+            <a href="hapus.php">Hapus Barang</a>
         </nav>
         <?php
 error_reporting(E_ALL);
