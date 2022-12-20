@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+table{
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+th{
+    background-color: aqua;
+}
+th,td{
+    border: 1px solid black;
+}
+
+.input{
+    padding: 5px;
+}
+.input label{
+    display: inline-block;
+    width: 100px;
+}
